@@ -65,7 +65,6 @@ public static class StringBuilderExtensions
         }
         while (hasNext);
 
-        //return builder.Append(valueSpan);
         return builder;
     }
 }
